@@ -1,0 +1,59 @@
+{
+    "ConsoleEquivalentSettings": {
+      "PS5PerformanceMode": {
+        "PostProcessing": "Low",
+        "TextureResolution": "Medium+",
+        "TextureFiltering": "Low",
+        "VolumetricLighting": "Low",
+        "VolumetricSpotlightQuality": "Low",
+        "GlobalIlluminationQuality": "Medium",
+        "ShadowResolution": "Low",
+        "ShadowFiltering": "Medium",
+        "ShadowDetail": "Medium",
+        "SSAO": "On",
+        "GlobalReflections": "Low",
+        "ScreenSpaceReflections": "Low",
+        "FogQuality": "Medium",
+        "TerrainQuality": "Medium",
+        "FarObjectDetailLOD": "Medium",
+        "ScatteredObjectDensity": "Medium"
+      },
+      "PCMediumPreset": {
+        "PostProcessing": "High",
+        "TextureResolution": "High",
+        "TextureFiltering": "Medium",
+        "VolumetricLighting": "Medium",
+        "VolumetricSpotlightQuality": "Medium",
+        "GlobalIlluminationQuality": "High",
+        "ShadowResolution": "Medium",
+        "ShadowFiltering": "High",
+        "ShadowDetail": "Medium",
+        "SSAO": "On",
+        "GlobalReflections": "Low",
+        "ScreenSpaceReflections": "Low",
+        "FogQuality": "High",
+        "TerrainQuality": "High",
+        "FarObjectDetailLOD": "High",
+        "ScatteredObjectDensity": "Ultra"
+      },
+      "PS5QualityMode": {
+        "PostProcessing": "Low",
+        "TextureResolution": "Medium+",
+        "TextureFiltering": "Medium",
+        "VolumetricLighting": "Medium",
+        "VolumetricSpotlightQuality": "Medium",
+        "GlobalIlluminationQuality": "High",
+        "ShadowResolution": "Medium",
+        "ShadowFiltering": "High",
+        "ShadowDetail": "Medium",
+        "SSAO": "On",
+        "GlobalReflections": "Low",
+        "ScreenSpaceReflections": "Low",
+        "FogQuality": "High",
+        "TerrainQuality": "High",
+        "FarObjectDetailLOD": "High",
+        "ScatteredObjectDensity": "Ultra"
+      }
+    }
+  }
+  

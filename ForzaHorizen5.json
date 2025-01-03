@@ -1,0 +1,43 @@
+{
+    "ConsoleEquivalentSettings": {
+      "PerformanceMode": {
+        "AnisotropicFiltering": "High",
+        "ShadowQuality": "Ultra",
+        "NightShadows": "Off",
+        "MotionBlurQuality": "High",
+        "EnvironmentTextureQuality": "Ultra",
+        "EnvironmentGeometryQuality": "Ultra",
+        "MSAA": "4x",
+        "FXAA": "Off",
+        "SSAOQuality": "High",
+        "ReflectionQuality": "High (dynamic)",
+        "WorldCarLOD": "Ultra",
+        "DeformableTerrainQuality": "Ultra",
+        "SSRQuality": "High",
+        "LensEffects": "Ultra",
+        "ShaderQuality": "Ultra",
+        "ParticleEffectsQuality": "High",
+        "RayTracingQuality": "Off"
+      },
+      "QualityMode": {
+        "AnisotropicFiltering": "High",
+        "ShadowQuality": "Extreme",
+        "NightShadows": "On",
+        "MotionBlurQuality": "Ultra",
+        "EnvironmentTextureQuality": "Ultra",
+        "EnvironmentGeometryQuality": "Extreme",
+        "MSAA": "4x",
+        "FXAA": "Off",
+        "SSAOQuality": "High",
+        "ReflectionQuality": "High",
+        "WorldCarLOD": "Ultra",
+        "DeformableTerrainQuality": "Extreme",
+        "SSRQuality": "High",
+        "LensEffects": "Ultra",
+        "ShaderQuality": "Ultra",
+        "ParticleEffectsQuality": "Ultra",
+        "RayTracingQuality": "High"
+      }
+    }
+  }
+  

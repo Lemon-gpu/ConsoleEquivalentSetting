@@ -1,0 +1,25 @@
+{
+    "ConsoleEquivalentSettings": {
+      "PS5SettingsOnPC": {
+        "DisplayResolution": "3840x2160",
+        "RenderResolution": "2560x1440",
+        "FarObjectDetailLOD": "Custom",
+        "TextureResolution": "Medium",
+        "TextureFiltering": "Low",
+        "ShadowResolution": "Low",
+        "ShadowFiltering": "Low",
+        "VolumetricLighting": "Low",
+        "FoliageQuality": "Low",
+        "SSAO": "On",
+        "ScreenSpaceReflections": "Medium",
+        "GlobalReflections": "Medium",
+        "MSAA": "Off",
+        "RayTracedReflections": "Custom",
+        "RayTracedTransparentReflections": "Custom",
+        "RayTracedIndirectDiffuseLighting": "Off",
+        "RayTracedContactShadows": "Off",
+        "RayTracedDebris": "Off"
+      }
+    }
+  }
+  

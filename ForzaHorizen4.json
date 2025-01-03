@@ -1,0 +1,27 @@
+{
+    "ConsoleEquivalentSettings": {
+      "30fpsQualityMode": {
+        "MSAA_FXAA": "4x/Off",
+        "AnisotropicFiltering_Shadows": "Ultra",
+        "SSAO": "Medium/High",
+        "NightShadows": "On",
+        "MotionBlur": "Ultra",
+        "StaticDynamicGeometry": "Ultra",
+        "Reflections": "Ultra",
+        "WindshieldReflections_MirrorQuality": "Ultra",
+        "WorldCarLOD_SSRQuality": "Ultra"
+      },
+      "60fpsPerformanceMode": {
+        "MSAA_FXAA": "4x/Off",
+        "AnisotropicFiltering_Shadows": "Ultra",
+        "SSAO": "Off",
+        "NightShadows": "Off",
+        "MotionBlur": "High",
+        "StaticDynamicGeometry": "Ultra",
+        "Reflections": "Low/High/Ultra Mix",
+        "WindshieldReflections_MirrorQuality": "Ultra",
+        "WorldCarLOD_SSRQuality": "High"
+      }
+    }
+  }
+  

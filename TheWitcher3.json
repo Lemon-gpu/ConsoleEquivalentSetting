@@ -1,0 +1,19 @@
+{
+    "ConsoleEquivalentSettings": {
+      "GeneralSettings": {
+        "Resolution": "1920x1080",
+        "NvidiaHairWorks": "Off",
+        "NumberOfBackgroundCharacters": "Low",
+        "ShadowQuality": "Medium",
+        "TerrainQuality": "Medium",
+        "WaterQuality": "High",
+        "GrassDensity": "Medium",
+        "TextureQuality": "High (all GPUs tested here support ultra though so choose that)",
+        "FoliageVisibilityRange": "Medium",
+        "DetailLevel": "Medium",
+        "AmbientOcclusion": "SSAO",
+        "PostProcessEffects": "All on, except vignetting"
+      }
+    }
+  }
+  

@@ -1,0 +1,53 @@
+{
+    "ConsoleEquivalentSettings": {
+      "XboxOneX": {
+        "Ultra": {
+          "TextureQuality": "Ultra",
+          "GeometryLevelOfDetail": "5/5"
+        },
+        "High": {
+          "ShadowQuality": "High",
+          "MirrorQuality": "High",
+          "SoftShadows": "High",
+          "WaterRefractionQuality": "High"
+        },
+        "HighOrMedium": {
+          "Tessellation": "High/Medium",
+          "TAA": "High/Medium",
+          "VolumetricLightingQuality": "High/Medium",
+          "ParallaxOcclusionMapping": "High/Medium"
+        },
+        "Medium": {
+          "LightingQuality": "Medium",
+          "ScreenSpaceAmbientOcclusion": "Medium",
+          "ParticleQuality": "Medium",
+          "ParticleLightingQuality": "Medium",
+          "FurQuality": "Medium",
+          "DecalQuality": "Medium",
+          "WaterReflectionQuality": "Medium"
+        },
+        "LowOrMedium": {
+          "GlobalIlluminationQuality": "Low/Medium",
+          "GrassShadows": "Low/Medium"
+        },
+        "LowOrLowerThanLow": {
+          "FarShadowQuality": "Low/Lower Than Low",
+          "ReflectionQuality": "Low/Lower Than Low",
+          "NearVolumetricResolution": "Low/Lower Than Low",
+          "FarVolumetricResolution": "Low/Lower Than Low",
+          "WaterPhysicsQuality": "1/6",
+          "TreeQuality": "Low/Lower Than Low",
+          "GrassLevelOfDetail": "2/10"
+        },
+        "DisabledFeatures": [
+          "FXAA",
+          "MSAA",
+          "UnlockedVolumetricRayMarchResolution",
+          "FullResolutionSSAO",
+          "LongShadows",
+          "TAASharpening"
+        ]
+      }
+    }
+  }
+  

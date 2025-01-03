@@ -1,0 +1,31 @@
+{
+    "ConsoleEquivalentSettings": {
+      "OptimisedSettings": {
+        "ShadowQuality": "Medium",
+        "IndirectLighting": "Medium-Ultra",
+        "Reflections": "Medium",
+        "ParticleQuality": "Medium-High",
+        "VolumetricLighting": "Medium",
+        "CrowdDensity": "Low",
+        "MotionBlur": "Low",
+        "GTAOQuality": "Medium",
+        "GrassQuality": "Medium",
+        "ContactShadows": "Medium",
+        "VariableRateShading": "On"
+      },
+      "XboxSeriesXEquivalent": {
+        "ShadowQuality": "Low/Ultra Features",
+        "IndirectLighting": "Medium or High",
+        "Reflections": "Medium",
+        "ParticleQuality": "Medium or High",
+        "VolumetricLighting": "Medium",
+        "CrowdDensity": "Unknown",
+        "MotionBlur": "Low",
+        "GTAOQuality": "Lower Than Low",
+        "GrassQuality": "Medium",
+        "ContactShadows": "Medium But Worse",
+        "VariableRateShading": "On But Worse"
+      }
+    }
+  }
+  

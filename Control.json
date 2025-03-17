@@ -19,7 +19,8 @@
         "RayTracedIndirectDiffuseLighting": "Off",
         "RayTracedContactShadows": "Off",
         "RayTracedDebris": "Off"
-      }
+      },
+    "PS4SettingsOnPC": "medium preset, may expect volumetric quality"
     }
   }
   
